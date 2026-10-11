@@ -6,7 +6,7 @@
 <div align="center">
   
   <!-- ========== GALACTIC PORTAL ENTRANCE ========== -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   
   <!-- ========== 3D NEON PORTAL EFFECT ========== -->
   <p align="center">
@@ -40,7 +40,7 @@
   <img src="https://komarev.com/ghpvc/?username=AliyanKhan04&color=ff69b4&style=for-the-badge&label=COSMIC+VISITORS&abbreviated=true" width="300"/>
 
   <!-- ========== QUANTUM REALITY BANNER ========== -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <!-- ========== COSMIC MANIFESTO ========== -->
@@ -72,7 +72,7 @@
 
 <!-- ========== QUANTUM DIVIDER ========== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <!-- ========== TECH CONSTELLATION ========== -->
@@ -93,7 +93,7 @@
 
 <!-- ========== QUANTUM DIVIDER ========== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <!-- ========== ACTIVE QUANTUM PROJECTS ========== -->
@@ -140,5 +140,5 @@
 
 <!-- ========== QUANTUM DIVIDER ========== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
