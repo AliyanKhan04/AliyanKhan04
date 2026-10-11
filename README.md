@@ -1,6 +1,6 @@
 <!-- ============================================ -->
 <!--   ALIYAN KHAN - COSMIC DEVELOPER PROFILE    -->
-<!--   Where Code Meets Art & Innovation         -->
+<!--   Where Code Meets Art & Innovation          -->
 <!-- ============================================ -->
 
 <div align="center">
@@ -91,8 +91,6 @@
 
 </div>
 
-
-
 <!-- ========== QUANTUM DIVIDER ========== -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -135,12 +133,8 @@
 
 <br><br>
 
-
 <!-- Cosmic Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyanKhan04&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff&border_radius=20" width="96%"/>
-
-<!-- Holographic Trophies -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=AliyanKhan04&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/> -->
 
 </div>
 
@@ -148,55 +142,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
-
-
-<!-- ========== COSMIC TIMELINE ========== -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="60"/>
-  ⏳ COSMIC EVOLUTION TIMELINE ⏳
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="60"/>
-</h1>
-
-<div align="center">
-  
-
-
-## 🎯 **COSMIC FEATURES EXPLAINED:**
-
-### **🌌 Visual Elements:**
-1. **Hologram Avatar** - Pulsing neon effect with color shifts
-2. **Quantum Social Links** - Custom styled buttons with hover effects
-3. **Tech Constellation** - Organized skill icons with gradient backgrounds
-4. **Progress Nebulas** - Color-coded skill meters
-5. **3D Contribution Galaxy** - Animated activity graph
-6. **Holographic Trophies** - Floating achievement badges
-7. **Quantum Project Cards** - Multi-colored pinned repos
-8. **Cosmic Timeline** - Interactive JSON visualization
-9. **Portal Connect Section** - 3D social cards with animations
-10. **Wormhole Footer** - Gradient wave animation
-
-### **🌈 Color Palette:**
-- **Cyan (#00ffff)** - Primary cosmic energy
-- **Magenta (#ff00ff)** - Secondary quantum flow
-- **Hot Pink (#ff69b4)** - Accent energy
-- **Yellow** - Data visualization
-- **Dark background (#0d1117)** - Space backdrop
-
-### **🎨 Special Effects:**
-- **Hologram pulse animation** on avatar
-- **Color shifting** on hover
-- **3D transforms** on cards
-- **Gradient backgrounds** with transparency
-- **Floating animations** on elements
-- **Neon glow** on all interactive elements
-
-### **🚀 How to Customize:**
-1. Replace ALL instances of `AliyanKhan04` with your username
-2. Update the avatar URL to your actual profile picture
-3. Change project names in the featured section
-4. Adjust skill percentages to match your actual expertise
-5. Update social media links to your profiles
-6. The CSS animations will work automatically
-
-This README is **NEXT-LEVEL COSMIC**! It's not just a profile - it's a **DIGITAL EXPERIENCE**! 🌟
