@@ -128,13 +128,13 @@
 
 <div align="center">
   
-<!-- 3D Contribution Galaxy -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliyanKhan04&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&area_color=00ffff&hide_border=true&custom_title=Aliyan's%20Contribution%20Galaxy" width="100%"/>
+<!-- 3D Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliyanKhan04&theme=react-dark&hide_border=true" width="100%"/>
 
 <br><br>
 
-<!-- Cosmic Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyanKhan04&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff&border_radius=20" width="96%"/>
+<!-- Cosmic Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyanKhan04&theme=radical&hide_border=true" width="96%"/>
 
 </div>
 
