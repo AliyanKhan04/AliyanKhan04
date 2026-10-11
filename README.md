@@ -122,19 +122,17 @@
 <!-- ========== GITHUB COSMIC METRICS ========== -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="60"/>
-  🌠 GITHUB COSMIC METRICS 🌠
+  0🌠 GITHUB COSMIC METRICS 🌠
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="60"/>
 </h1>
 
 <div align="center">
   
-<!-- 3D Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliyanKhan04&theme=react-dark&hide_border=true" width="100%"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=AliyanKhan04&show_icons=true&theme=radical&hide_border=true" width="48%"/>
 
-<br><br>
-
-<!-- Cosmic Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyanKhan04&theme=radical&hide_border=true" width="96%"/>
+<!-- Cosmic Streak Stats (Using stable server endpoint) -->
+<img src="https://streak-stats.demolab.com/?user=AliyanKhan04&theme=radical&hide_border=true" width="48%"/>
 
 </div>
 
